@@ -41,4 +41,5 @@ public class GroundTimeFilter implements FlightFilter {
                 })
                 .collect(Collectors.toList());
     }
+
 }
